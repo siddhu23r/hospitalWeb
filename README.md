@@ -1,3 +1,3 @@
 # hospitalWeb
 Healthcare website 
-<h1> Bloom Healthcare < color: blue /h1>
+<h1> Bloom Healthcare </h1>
